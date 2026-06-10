@@ -1,4 +1,4 @@
 index.html
 
 
-Alle bestanden (*.*)
+index.html
